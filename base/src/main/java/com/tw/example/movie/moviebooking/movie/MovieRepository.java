@@ -1,6 +1,6 @@
 package com.tw.example.movie.moviebooking.movie;
 
-import com.tw.example.movie.moviebooking.R;
+import com.tw.example.movie.moviebooking.base.R;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.tw.example.movie.moviebooking;
+package com.tw.example.movie.movielisting;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.tw.example.movie.moviebooking.movielisting.R;
 import com.tw.example.movie.moviedetail.DetailsActivity;
 
 public class ListingActivity extends Activity {

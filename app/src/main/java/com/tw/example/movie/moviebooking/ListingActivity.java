@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.tw.example.movie.moviedetail.DetailsActivity;
+
 public class ListingActivity extends Activity {
 
     @Override

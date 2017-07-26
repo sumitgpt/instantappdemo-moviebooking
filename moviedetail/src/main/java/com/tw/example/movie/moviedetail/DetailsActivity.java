@@ -1,4 +1,4 @@
-package com.tw.example.movie.moviebooking;
+package com.tw.example.movie.moviedetail;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import com.tw.example.movie.moviebooking.movie.Movie;
 import com.tw.example.movie.moviebooking.movie.MovieRepository;
+import com.tw.example.movie.moviebooking.moviedetail.R;
 
 public class DetailsActivity extends Activity {
 
